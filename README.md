@@ -1,2 +1,3 @@
-Hello, World!
-And now, goodbye!
+## Hello, World!
+
+And now, **goodbye**!
